@@ -21,7 +21,7 @@ end
 
 def multiplication(num1, num2)
   num1 = 4
-  num2 = 3
+  num2 = 30
   p (num1*num2)
 
 end
