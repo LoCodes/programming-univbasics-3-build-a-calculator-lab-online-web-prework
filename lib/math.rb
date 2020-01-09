@@ -36,6 +36,6 @@ end
 def square_root(num)
   num1 = 81
   num2 = 9
-  p square_root()
+  p square_root(num1, num2)
 
 end
